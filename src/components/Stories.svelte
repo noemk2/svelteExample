@@ -69,7 +69,7 @@
           <img src="https://arepa.s3.amazonaws.com/oscar.png" alt="" />
         </div>
         <h2>
-          noemk2
+          oscar
           <span>10 horas antes</span>
         </h2>
       </div>
